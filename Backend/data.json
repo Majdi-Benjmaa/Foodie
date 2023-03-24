@@ -1,0 +1,991 @@
+[{
+  "_id": {
+    "$oid": "641d011c5403d93150f848ba"
+  },
+  "title": "Pizza bites with pumpkin",
+  "sourceUrl": "https://www.foodista.com/recipe/SHKG55X4/pizza-bites-with-pumpkin",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848bb"
+  },
+  "title": "BLT Pizza",
+  "sourceUrl": "http://www.pinkwhen.com/blt-pizza/",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848bc"
+  },
+  "title": "Thai Pizza",
+  "sourceUrl": "http://www.foodista.com/recipe/MJBRQQXL/thai-pizza",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848bd"
+  },
+  "title": "Plantain Pizza",
+  "sourceUrl": "http://www.afrolems.com/2014/03/08/plantain-pizza/",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848be"
+  },
+  "title": "Zucchini Pizza Boats",
+  "sourceUrl": "https://www.foodista.com/recipe/5N8Z8MR8/zucchini-pizza-boats",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848bf"
+  },
+  "title": "Pepperoni Pizza Muffins",
+  "sourceUrl": "https://www.foodista.com/recipe/ZBB4CYW8/pepperoni-pizza-muffins",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848c0"
+  },
+  "title": "Pittata - Pizza Frittata",
+  "sourceUrl": "https://spoonacular.com/-1418233867224",
+  "servings": 2,
+  "readyInMinutes": 30,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848c1"
+  },
+  "title": "Easy Cheesy Pizza Casserole",
+  "sourceUrl": "https://www.foodista.com/recipe/ZTHZWCWF/easy-cheesy-pizza-casserole",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848c2"
+  },
+  "title": "Paneer & Fig Pizza",
+  "sourceUrl": "http://www.foodista.com/recipe/4FXMWQVY/paneer-fig-pizza",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d011c5403d93150f848c3"
+  },
+  "title": "Pesto Veggie Pizza",
+  "sourceUrl": "https://www.foodista.com/recipe/VZQSY22T/pesto-veggie-pizza",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d8d"
+  },
+  "title": "Chicken 65",
+  "sourceUrl": "http://www.foodista.com/recipe/G4XPLKBW/chicken-65-chicken-marinaded-in-traditional-indian-spices-and-deep-fried",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d8e"
+  },
+  "title": "Chicken Suya",
+  "sourceUrl": "http://www.afrolems.com/2014/05/27/chicken-suya/",
+  "servings": 1,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d8f"
+  },
+  "title": "Chicken Wings",
+  "sourceUrl": "http://www.foodista.com/recipe/54VP6J4F/chicken-wings",
+  "servings": 30,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d90"
+  },
+  "title": "Chicken Satay",
+  "sourceUrl": "http://www.foodista.com/recipe/3SCSTC5Y/chicken-satay-by-bing",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d91"
+  },
+  "title": "Chicken Fingers",
+  "sourceUrl": "http://www.foodista.com/recipe/6GVTWWJ6/chicken-fingers",
+  "servings": 2,
+  "readyInMinutes": 30,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d92"
+  },
+  "title": "Chicken Lo Mein",
+  "sourceUrl": "http://www.foodista.com/recipe/R6TCPBBF/chicken-lo-mein",
+  "servings": 2,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d93"
+  },
+  "title": "Chicken In A Pot",
+  "sourceUrl": "https://www.foodista.com/recipe/4FNL5JJ8/chicken-in-a-pot",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d94"
+  },
+  "title": "chicken marbella",
+  "sourceUrl": "https://spoonacular.com/-1436561619005",
+  "servings": 5,
+  "readyInMinutes": 75,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d95"
+  },
+  "title": "Chicken Porridge",
+  "sourceUrl": "http://www.foodista.com/recipe/S6FN8VYN/chicken-porridge",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d016fa3b2ef8ff4153d96"
+  },
+  "title": "Chicken Burritos",
+  "sourceUrl": "http://www.foodista.com/recipe/YCKK77YK/chicken-burrito-by-bing",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd4c"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd4d"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd4e"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd4f"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd50"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd51"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd52"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd53"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd54"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01be72b7c368e987bd55"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd57"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd58"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd59"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5a"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5b"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5c"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5d"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5e"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd5f"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd60"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd62"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd63"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd64"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd65"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd66"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd67"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd68"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd69"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd6a"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d01c672b7c368e987bd6b"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd6d"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd6e"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd6f"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd70"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd71"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd72"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd73"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd74"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd75"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd76"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd78"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd79"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7a"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7b"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7c"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7d"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7e"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd7f"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd80"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d022c72b7c368e987bd81"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd83"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd84"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd85"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd86"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd87"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd88"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd89"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd8a"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd8b"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026e72b7c368e987bd8c"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd8e"
+  },
+  "title": "Salade Grecque",
+  "sourceUrl": "http://www.foodista.com/recipe/3GGPPFFQ/salade-grecque",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd8f"
+  },
+  "title": "Larb Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/ZKL8PYY8/larb-salad",
+  "servings": 8,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd90"
+  },
+  "title": "Wedge Salad",
+  "sourceUrl": "http://spoonacular.com/-1381771932390",
+  "servings": 3,
+  "readyInMinutes": 25,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd91"
+  },
+  "title": "Kumato Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/KFNXBDQS/kumato-salad",
+  "servings": 3,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd92"
+  },
+  "title": "Autumn Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/F3M5KBQF/autumn-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd93"
+  },
+  "title": "Niçoise Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/B88VXBRK/nicoise-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd94"
+  },
+  "title": "Codfish Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/CXK6TBP5/codfish-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd95"
+  },
+  "title": "Assembly Salad",
+  "sourceUrl": "http://www.foodista.com/recipe/L8KWS4PX/assembly-salad",
+  "servings": 4,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd96"
+  },
+  "title": "Raw Kale Salad",
+  "sourceUrl": "https://www.foodista.com/recipe/4TWGVMRK/raw-kale-salad",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641d026f72b7c368e987bd97"
+  },
+  "title": "Pastel Caprese",
+  "sourceUrl": "http://www.foodista.com/recipe/TLTFLF2H/pastel-caprese",
+  "servings": 6,
+  "readyInMinutes": 45,
+  "ingredients": [],
+  "instructions": [],
+  "__v": 0
+}]
